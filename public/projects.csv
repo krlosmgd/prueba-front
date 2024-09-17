@@ -1,0 +1,101 @@
+﻿name,rating,category,project id,id
+State Farm Insurance,2,Health,162fe575-848c-45ca-b4ae-5842f2ad2053,1
+Alphabet,1,Human Resources,1306c583-2af8-43cc-9d49-d3f69e630cea,2
+Johnson & Johnson,2,Marketing,38cf69ff-c66c-4293-8563-e2de8afce9a0,3
+Slack,2,Human Resources,7f0bcf0c-c278-4b30-b469-3ad62ba38da3,4
+UnitedHealth Group,1,Human Resources,9d141ed0-5fdb-437f-a579-8526931f1c1c,5
+Alphabet,2,Human Resources,dba70e1c-4fbc-4227-95bb-68fd4965a997,6
+Cisco Systems,3,Health,45001591-ecf5-4fc5-acff-57e0f221ae80,7
+JP Morgan Chase,3,Marketing,ac642598-d705-4872-a1d6-d84aaac19b28,8
+Facebook,3,Health,186c2439-7b6b-4ced-b6a6-43cd41fc5cd2,9
+UPS,2,Human Resources,1a9c2471-b131-4c1c-836b-6e7a49602afe,10
+Best Buy,3,Software Development,1ae3e890-c291-4a13-b243-c27694b697d7,11
+Bumble,4,Marketing,36b0ae88-47c8-4e8e-8fe4-a0ded7d3a13a,12
+Gong,3,Marketing,bb78385b-3099-4a17-ae3a-f57bf43b8668,13
+Oracle,3,Software Development,f20f3699-0c9c-4798-8ca2-43321a147c5b,14
+Progressive,1,Human Resources,3f867f55-e4df-4a1e-b16c-f3f86a3ef462,15
+Oracle,1,Marketing,a7cd9e8c-5e9f-4286-9d3a-381762849684,16
+Walt Disney,2,Software Development,0c80f374-c155-4bee-90b7-8e8e85352287,17
+Costco Wholesale,3,Human Resources,4b48fc1e-2c12-4306-b3b1-b60b472eee18,18
+Slack,3,Human Resources,4467eb83-4935-44b7-9cbc-cf3fbde3c682,19
+United Airlines,2,Marketing,0bf34887-2d5e-4b0f-957a-422f1c10db7d,20
+Best Buy,5,Marketing,e5e36a4e-66df-48fd-8675-102685dcbef1,21
+Goldman Sachs Group,5,Health,c11a937f-b0f4-42e7-b2cd-15f9504d1cab,22
+AT&T,4,Human Resources,5e309d1e-f983-42d9-85b1-e0e1d2589296,23
+Apple,5,Software Development,30d1760c-e495-4394-a431-65fea10f0d30,24
+Dell Technologies,2,Software Development,0294e05c-b260-4381-9e07-41b4cc3c420d,25
+Best Buy,2,Software Development,d764e90f-389e-40df-9d37-b0a55896bde1,26
+Walt Disney,3,Human Resources,9cb43187-f7a7-4613-b863-6d124e8d341a,27
+Kroger,4,Health,513e5a51-ac2b-4895-bc6c-44588ed5e840,28
+Progressive,4,Software Development,9196ee25-50e2-4d52-8f17-c9c916f4e44c,29
+Verizon,1,Software Development,aa19fca2-f02c-42a8-9b3c-2e283dea56c5,30
+General Motors,1,Human Resources,67b106e8-85fb-4620-b8cd-94c9aed61e06,31
+Brex,3,Human Resources,59486ad5-0cd5-4191-9ef2-b1780ccc6d04,32
+Kroger,3,Marketing,2fff2203-ec8b-471a-b3ab-e4690b7769e0,33
+Costco Wholesale,2,Software Development,c0ec5257-8cef-4d01-a05b-64a59c074a3e,34
+Goldman Sachs Group,5,Human Resources,9880042a-566f-40ff-b3b8-8a0cb2b3eff0,35
+Slack,2,Marketing,ed726488-f462-4194-a510-ff8fac3e6851,36
+IBM,2,Marketing,3ad7ba34-876f-4d9d-ba8d-5f0b405e64be,37
+Superhuman,4,Marketing,7b1e1bcc-74ac-4850-bf1b-d9c9e36a6e65,38
+American Express,4,Human Resources,6b946fe0-a128-4dab-b474-4b1078a4ebb0,39
+Retool,3,Human Resources,ef51b47a-befd-43d9-9b60-9172f1c55e7c,40
+Progressive,4,Human Resources,eea25e37-1cd4-4dc2-9dfc-7b45cb8294fb,41
+Bumble,1,Marketing,4f915cb8-c5e3-4f34-bb20-3d332e102cfd,42
+Citigroup,2,Human Resources,0f4e451e-c2b5-4098-a01d-a5c81116eebb,43
+Progressive,3,Health,515f5710-e637-47f7-bd45-46adcfc5b5c0,44
+Dropbox,2,Marketing,39e1dcb5-6ee2-411d-a8ac-a2928d092ccb,45
+JP Morgan Chase,1,Human Resources,4070679c-0559-4f01-b5d3-3004c6ffa822,46
+Johnson & Johnson,1,Human Resources,bfa34f1d-6d28-4b46-b620-13eb65c83b42,47
+Cisco Systems,2,Marketing,53e22daa-36f3-471c-a0b3-5d8539b25a6c,48
+Stripe,2,Health,678066b0-e8e4-4667-aa86-40f82200c836,49
+UnitedHealth Group,2,Marketing,fcbcfe1b-b328-4134-b7ad-f1cfea5bd7a2,50
+Valero Energy,4,Marketing,8998ba03-bb22-4ed2-8870-54b588b68f63,51
+Costco Wholesale,2,Software Development,9395717f-971c-4608-9f35-7ff5be13d9e5,52
+Costco Wholesale,2,Human Resources,05db8afc-ca92-4fd5-a835-1d7a5112fc4a,53
+Postmates,3,Marketing,57b5a5af-fa66-41e2-905f-3c332a8282dc,54
+General Motors,5,Marketing,a379b738-8ed8-43e3-916b-779d26cabff0,55
+Stripe,4,Software Development,af74d6c6-eb65-46e4-b024-c4d6795f2a3f,56
+IBM,4,Health,f916af4f-c693-4b04-9cce-557185389a7f,57
+Procter & Gamble,2,Marketing,787a505d-8ff6-4e73-86b3-743fed24392d,58
+Retool,2,Human Resources,5e26db3a-13ec-4195-bb92-dbc323e5c884,59
+American Express,5,Human Resources,4bd42633-06e7-432f-b68c-1e29cfbe8873,60
+Slack,4,Human Resources,3f1e56f1-72e5-47cf-8d42-480122e4982f,61
+Wells Fargo,5,Software Development,3772bfe0-0b67-40da-b24f-1f257bc1db53,62
+Verizon,5,Marketing,d0b9c5e4-9082-468c-8e38-53cea01ee719,63
+Palentir Technologies,3,Software Development,c9b7744e-eb2a-4d6c-bcf0-ec461f6485cb,64
+Gamestop,3,Human Resources,8bee2d10-b267-45a1-aebe-ef7c6163ae76,65
+Bank of America,5,Health,827a9e72-7cdd-4437-bb32-fd527dd13864,66
+Berkshire Hathaway,1,Marketing,f1a74ed6-3a0a-4df5-b2ff-a16a39c72a71,67
+UnitedHealth Group,1,Health,12dd71ca-808e-4ef8-9441-143f7f1a9e4e,68
+FedEx,1,Marketing,82684b14-c8a6-4c35-aaa9-122d8eb99738,69
+Costco Wholesale,1,Human Resources,ea63afcb-58be-4e8d-a338-626377d78ff9,70
+Pfizer,1,Marketing,2a08baa9-6ee1-4278-8a5f-7835748e539a,71
+PepsiCo,5,Marketing,346e9425-f040-400f-846a-656b9bf75f34,72
+PepsiCo,1,Marketing,bd43778e-6c32-4423-a1c2-da48d8eff237,73
+Retool,4,Marketing,1f0cb43d-fc67-40f4-9ea6-1b6509fdcfbf,74
+Pfizer,3,Marketing,f8769470-2c6d-4f57-9d6c-ec629d6622e8,75
+PepsiCo,3,Marketing,9e8bf0bf-ad02-49b9-8455-56fe45d83c55,76
+General Motors,3,Human Resources,22a9b9b5-1922-463b-9d75-4771c87457f1,77
+Goldman Sachs Group,4,Health,0544f307-3aa5-4a57-8e94-31f4ff837e00,78
+MetLife,2,Human Resources,09247f03-015d-452e-92ce-250eb2ae4691,79
+Twitter,1,Marketing,5a21f40d-ce7b-49f3-ab41-31a27740295e,80
+Brex,3,Health,4ebf0e7e-697c-42d0-8779-72003f50af28,81
+Kroger,1,Health,e4c1b7d0-79f9-4aec-b9a0-e773a2c8bcae,82
+AT&T,1,Marketing,0d4a425f-cd08-439f-9e51-b54378949fe4,83
+Retool,3,Human Resources,b90db524-b4e9-47d4-b41d-d82ec5697181,84
+Kroger,1,Software Development,ca98f80a-aa9d-43ef-a052-d5d419991b38,85
+Postmates,4,Marketing,208af6ab-e709-4126-a25e-072bdacaf361,86
+Slack,3,Marketing,941a8afa-5edf-42bd-8134-ecddd1d9e182,87
+Johnson & Johnson,1,Human Resources,abed0f08-00ba-47cb-9e11-888f846f363c,88
+Ford Motor,3,Software Development,79a20dab-9551-4f62-bd04-6c386b34b356,89
+Bank of America,3,Marketing,f338f698-80c2-45e4-86fb-ea6436d4652e,90
+Citigroup,3,Health,fd163100-b165-4a6d-a269-040d5f1588eb,91
+Superhuman,4,Marketing,7e6d5851-2a33-44e6-a34c-c161c90dd723,92
+Citigroup,3,Human Resources,a27ab28b-d077-4e83-9145-a730882021be,93
+Home Depot,3,Human Resources,48ca20e3-6d5c-4009-bdb0-d18070037567,94
+Bank of America,4,Software Development,aa3194db-b4bc-4ecc-ad20-898d84f49dfd,95
+Superhuman,2,Marketing,9403fad5-4f73-4759-a628-91242f835a3b,96
+Square,2,Software Development,17c54da6-6fd2-4ba2-9cd9-ebaf5105eda4,97
+Salesforce,1,Software Development,946dc17f-99d8-48fe-a14e-72bcb316a871,98
+JP Morgan Chase,4,Software Development,bee348da-a742-463c-9212-140a7a95b083,99
+Costco Wholesale,3,Human Resources,61bff1e9-2d0a-403c-ad07-87314b57db87,100
